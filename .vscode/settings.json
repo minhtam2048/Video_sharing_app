@@ -1,0 +1,11 @@
+{
+    "sqltools.connections": [
+        {
+            "database": "\\\\wsl$\\Ubuntu-20.04\\home\\tam\\Video_Sharing\\db\\development.sqlite3",
+            "driver": "SQLite",
+            "name": "video_sharing_db",
+            "previewLimit": 50
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
